@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Clothing Hanger Hook & Body -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M54,26c-2.76,0 -5,2.24 -5,5c0,2.15 1.36,3.98 3.26,4.68L48,42h12l-4.26,-6.32C57.64,34.98 59,33.15 59,31c0,-2.76 -2.24,-5 -5,-5z" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M30,52 L54,39 L78,52 C81,53.5 82,56.5 80,58 C78,59 75,58 72,56.5 L54,46 L36,56.5 C33,58 30,59 28,58 C26,56.5 27,53.5 30,52 Z" />
+        <!-- Bottom rail of hanger with financial bar metrics -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M34,68h8v14h-8z" />
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M46,62h8v20h-8z" />
+        <path
+            android:fillColor="#34D399"
+            android:pathData="M58,54h8v28h-8z" />
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M70,48h8v34h-8z" />
+        <!-- Trend arrow upward -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M34,64 L50,56 L62,48 L76,42" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M73,38 L80,41 L76,47 Z" />
+    </group>
+</vector>

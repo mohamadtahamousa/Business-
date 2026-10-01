@@ -1,0 +1,6 @@
+{
+  "name": "ClothFinance",
+  "description": "نظام مالي واقتصادي متكامل لتجارة الملابس أونلاين: إدارة المخزون والمبيعات والمصروفات، مع تتبع الأرباح بدقة لكل مصنع ومكتب جملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
